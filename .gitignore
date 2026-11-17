@@ -1,0 +1,9 @@
+.vscode/
+.idea/
+.env
+.venv/
+ll_env/
+__pycache__/
+*.py[cod]
+db.sqlite3
+staticfiles/
